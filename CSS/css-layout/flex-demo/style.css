@@ -1,0 +1,17 @@
+.flex-container {
+    display: flex;
+    list-style: none;
+    background-color: black;
+    height: 480px;
+}
+.flex-item { 
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 24px;
+
+}
+

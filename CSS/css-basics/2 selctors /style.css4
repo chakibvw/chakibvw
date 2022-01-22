@@ -1,0 +1,9 @@
+.in line {
+    element1
+}
+.inline {
+    element2
+}
+.inline {
+    element3
+}
